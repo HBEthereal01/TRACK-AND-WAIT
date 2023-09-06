@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>vlcsnap-2023-06-14-09h37m08s624.png</filename>
+	<path>/my-project-name/vlcsnap-2023-06-14-09h37m08s624.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1054</xmin>
+			<ymin>231</ymin>
+			<xmax>1188</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>
